@@ -5,7 +5,8 @@
 4.Used carousel effect for styling the services page<br>
 5.used react-router for giving a dynamic routing<br>
 6.Added firebase in the contact page for storing the information in the databse <br></p>
-![image](https://github.com/tusquake/GeekyMonkey/assets/77339749/cfb5294e-1725-4a98-a5db-77c1b29d5fde)
+
+![image](https://github.com/tusquake/GeekyMonkey/assets/77339749/006aec1b-26b8-42e5-9a0d-6db6d472f225)
 
 
 
