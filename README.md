@@ -1,5 +1,5 @@
 <h3>GEEKYMONKEY🐒</h3>
-<p>1.This App has five components which are home,about,brand,conatct and services page<br>
+<p>1.This App has five components which are home,about,brand,contact and services page<br>
 2.Used React icons and gave it a animation in the brand page<br>
 3.Used Scss for styling the components<br>
 4.Used carousel effect for styling the services page<br>
