@@ -1,6 +1,11 @@
 import React, { useState } from "react";
+import { ToastContainer, toast } from 'react-toastify';
+import 'react-toastify/dist/ReactToastify.css';
 
 const Contact = () => {
+  const notify = ()=>{
+    toast("Data Submitted Succesfully!")
+  }
 
   const [userData, setUserData] = useState({
     Name: "",
@@ -43,12 +48,12 @@ const Contact = () => {
           Email: "",
           Message: "",
         });
-        alert("Data Stored");
+        notify();
       } else {
-        alert("Please fill the data");
+        toast("Please fill the data");
       }
     } else {
-      alert("Please fill the data");
+      toast("Please fill the data");
     }
   };
 
@@ -83,6 +88,7 @@ const Contact = () => {
           </div>
 
           <button type="submit" onClick={submitData}>Submit</button>
+          <ToastContainer/>
         </form>
       </main>
     </div>
