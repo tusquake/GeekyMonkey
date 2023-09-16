@@ -4,7 +4,7 @@
 3.Used Scss for styling the components<br>
 4.Used carousel effect for styling the services page<br>
 5.used react-router for giving a dynamic routing<br>
-6.Added firebase in the contact page for storing the information in the databse <br></p>
+6.Added firebase in the contact page for storing the information in the databse and used react toastify to show toast about success status of data<br></p>
 
 ![image](https://github.com/tusquake/GeekyMonkey/assets/77339749/006aec1b-26b8-42e5-9a0d-6db6d472f225)
 
