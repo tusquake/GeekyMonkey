@@ -6,7 +6,7 @@
 5.used react-router for giving a dynamic routing<br>
 6.Added firebase in the contact page for storing the information in the databse and used react toastify to show toast about success status of data<br></p>
 
-![image](https://github.com/tusquake/GeekyMonkey/assets/77339749/006aec1b-26b8-42e5-9a0d-6db6d472f225)
 
 
 
+![ezgif com-optimize](https://github.com/tusquake/GeekyMonkey/assets/77339749/e8304f09-6ab4-4c49-baf9-f1ee6e510e81)
